@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className='hero-container'> 
         <div className='hero-content'>
-            {/* <h2>Building Digital Experieneces That Inspire</h2> */}
+            {/* <h2>Building Digital Experiences That Inspire</h2> */}
             <h2>Hi, <br /> I'm MARIA SARISHAN</h2>
             <p>
                 A frontend developer | Transforms ideas into seamless and visually stunning web experiences.
@@ -39,7 +39,7 @@ const Hero = () => {
             </div>
         </div>
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
